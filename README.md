@@ -22,4 +22,3 @@ SmartMusic is a professional music learning website that provides music educatio
 
 ## Heuristic Evaluation 
 1. Visibility of System Status 
-2. 
