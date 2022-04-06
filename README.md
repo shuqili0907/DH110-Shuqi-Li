@@ -15,7 +15,7 @@ This project is about improving music learning websites with a target user group
 9. Help users recognize, diagnose, and recover from errors: Give error messages that are explicitly explained in plain languages. 
 10. Help and documentation: Provide extra help for users. 
 
-# Website 1: SmartMusic 
+# Website 1: SmartMusic [goto NPR](https://www.smartmusic.com/)
 https://www.smartmusic.com/
 ![website1-screenshot](./website1-screenshot.png)
 SmartMusic is a professional music learning website that provides music education tools and interactive digital music libraries. It is designed for both students and teachers with practice tools, teaching tools, and all kinds of printable music learning materials. Generally speaking, the website is well designed for people who want to learn music in a professional way becuase of the professional tools this website offers. 
